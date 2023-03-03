@@ -1,0 +1,16 @@
+192.168.10.10 main.example.com	   main
+192.168.10.20 server1.example.com server1
+192.168.10.30 server2.example.com server2
+192.168.10.40 server3.example.com server3
+
+
+192.168.10.11 server11.example.com sever11
+192.168.10.12 server12.example.com sever12
+192.168.10.13 server13.example.com sever13
+192.168.10.14 server14.example.com sever14
+192.168.10.15 server15.example.com sever15
+192.168.10.16 server16.example.com sever16
+192.168.10.17 server17.example.com sever17
+192.168.10.18 server18.example.com sever18
+192.168.10.19 server19.example.com sever19
+192.168.10.20 server20.example.com sever20
